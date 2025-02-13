@@ -10,7 +10,7 @@ Duration: 2 Months
 Mentor: Neela Santhosh Kumar
 
 **Output**
-[Home Page](https://github.com/user-attachments/assets/60d61c8d-6737-4e1e-925d-e90aa8ebce52)
+![Home Page](https://github.com/user-attachments/assets/60d61c8d-6737-4e1e-925d-e90aa8ebce52)
 ![About Me](https://github.com/user-attachments/assets/586c169b-bf1b-424a-91ac-532b08900468)
 ![ISkills](https://github.com/user-attachments/assets/b3c28f05-e002-4589-8854-df997167a210)
 ![Education](https://github.com/user-attachments/assets/d76c46a5-1d4f-47b5-9085-9dc96301ceeb)
