@@ -8,3 +8,6 @@ Entern ID: CT12LYQ
 Domain: Web Development
 Duration: 2 Months
 Mentor: Neela Santhosh Kumar
+
+**Output**
+[Image](https://github.com/user-attachments/assets/60d61c8d-6737-4e1e-925d-e90aa8ebce52)
