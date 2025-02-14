@@ -2,6 +2,7 @@
 This is my personal portfolio website built using HTML, CSS, and JavaScript, with modern CSS animations powered by GSAP. The website showcases my skills, projects, education, and achievements in an interactive and visually appealing manner.
 
  **Below are the details of my internship:**
+ 
 **Company Name:** CODTECH IT SOLUTIONS PVT.LTD
 **Name:** Pratibha Arun Dhawale
 **Entern ID:** CT12LYQ
